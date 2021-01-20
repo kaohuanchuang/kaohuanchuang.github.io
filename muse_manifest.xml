@@ -1,33 +1,63 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kao.huanchuang" resolutions="1x" timestamp="1611134215407">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kao.huanchuang" resolutions="1x" timestamp="1611146266962">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="video.css" crc="245873216" ref="video"/>
-    <file name="si.css" crc="3926658827" ref="si"/>
-    <file name="index.css" crc="403477564" ref="index"/>
+    <file name="video.css" crc="4063780087" ref="video"/>
+    <file name="si.css" crc="4054577520" ref="si"/>
+    <file name="index.css" crc="262804449" ref="index"/>
+    <file name="br.css" crc="3960629338" ref="br"/>
+    <file name="photo.css" crc="3901640820" ref="photo"/>
+    <file name="cmdm.css" crc="534909747" ref="cmdm"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:si"/>
-    <file name="museutils.js" crc="4216313831" ref="index:video:si"/>
-    <file name="whatinput.js" crc="86476730" ref="index:video:si"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:video:si"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:video:si"/>
-    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
-    <file name="require.js" crc="3951022091" ref="index:video:si"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="video:si"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:si:br:photo:cmdm"/>
+    <file name="museutils.js" crc="4216313831" ref="index:video:si:br:photo:cmdm"/>
+    <file name="whatinput.js" crc="86476730" ref="index:video:si:br:photo:cmdm"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:video:si:br:photo:cmdm"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:video:si:br:photo:cmdm"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:video:br"/>
+    <file name="require.js" crc="3951022091" ref="index:video:si:br:photo:cmdm"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="video:si:br:photo:cmdm"/>
   </folder>
   <folder name="images">
     <file name="0.jpg" crc="430861675" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u118-4.png" crc="3935198525" ref="index"/>
-    <file name="41216.jpg" crc="4017842322" ref="video">
+    <file name="u118-4.png" crc="14371749" ref="index"/>
+    <file name="41216.jpg" crc="4169878324" ref="video">
       <caption webpage="video" alt=""/>
     </file>
     <file name="41214.jpg" crc="130343253" ref="si">
       <caption webpage="si" alt=""/>
     </file>
+    <file name="竹編14.jpg" crc="4273230225" ref="si">
+      <caption webpage="si" alt=""/>
+    </file>
+    <file name="竹編7.jpg" crc="421466530" ref="si">
+      <caption webpage="si" alt=""/>
+    </file>
+    <file name="竹編25.jpg" crc="339678407" ref="si">
+      <caption webpage="si" alt=""/>
+    </file>
+    <file name="17924.jpg" crc="472200041" ref="br">
+      <caption webpage="br" alt=""/>
+    </file>
+    <file name="41217.jpg" crc="4081772614" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="41163.jpg" crc="137781462" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="41229.jpg" crc="3790160260" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="螢幕快照 2021-01-20 下午83041.png" crc="264535412" ref="cmdm">
+      <caption webpage="cmdm" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4263802495" seo="true" mt="1611134197925" redirect="true"/>
-  <file name="video.html" crc="254033280" seo="true" mt="1611128792044" redirect="true"/>
-  <file name="si.html" crc="4252605224" seo="true" mt="1611128792249" redirect="true"/>
+  <file name="index.html" crc="525146748" seo="true" mt="1611145309906" redirect="true"/>
+  <file name="video.html" crc="52544775" seo="true" mt="1611145096222" redirect="true"/>
+  <file name="si.html" crc="3974639985" seo="true" mt="1611140946870" redirect="true"/>
+  <file name="br.html" crc="4123692205" seo="true" mt="1611142489927" redirect="true"/>
+  <file name="photo.html" crc="3870007227" seo="true" mt="1611144881737" redirect="true"/>
+  <file name="cmdm.html" crc="484837812" seo="true" mt="1611146266474" redirect="true"/>
 </manifest>
