@@ -1,0 +1,33 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kao.huanchuang" resolutions="1x" timestamp="1611134215407">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="video.css" crc="245873216" ref="video"/>
+    <file name="si.css" crc="3926658827" ref="si"/>
+    <file name="index.css" crc="403477564" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:si"/>
+    <file name="museutils.js" crc="4216313831" ref="index:video:si"/>
+    <file name="whatinput.js" crc="86476730" ref="index:video:si"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:video:si"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:video:si"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:video:si"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="video:si"/>
+  </folder>
+  <folder name="images">
+    <file name="0.jpg" crc="430861675" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u118-4.png" crc="3935198525" ref="index"/>
+    <file name="41216.jpg" crc="4017842322" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="41214.jpg" crc="130343253" ref="si">
+      <caption webpage="si" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4263802495" seo="true" mt="1611134197925" redirect="true"/>
+  <file name="video.html" crc="254033280" seo="true" mt="1611128792044" redirect="true"/>
+  <file name="si.html" crc="4252605224" seo="true" mt="1611128792249" redirect="true"/>
+</manifest>
